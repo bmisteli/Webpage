@@ -1,12 +1,12 @@
 ---
 title: Benjamin Misteli
 role: Postdoc
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include everything around aquatic ecosystems with a
+  focus on biodiversity and Carbon cycle. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Limnology
+  - Biodiversity
+  - Biogeochemistry
 social:
   - icon: envelope
     icon_pack: fas
@@ -53,6 +53,5 @@ highlight_name: true
 first_name: Alice
 email: benjamin.misteli@wcl.ac.at
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I﻿ am a young limnologist currently working as a PostDoc at WasserCluster Lunz. In my young career, I gathered experience in a broad range of aquatic systems (springs, intermittent streams, ponds, shallow lakes and rivers) working on various topics from biodiversity (macroinvertebrates, zooplankton, phytoplankton) to ecosystem management. Currently working on the RESTORE4Cs project, studying the potential of coastal wetland restoration as a tool for climate change mitigation in Europe.
 {style="text-align: justify;"}
